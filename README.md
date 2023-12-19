@@ -1,8 +1,6 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
- <img alt="Hello my name is Kan" src="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
-</picture>
+## About me
+
+Hi, my name is Kantaphon Trayok, or you can call me Kan.
 
 <!--
 **kan15051/kan15051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
