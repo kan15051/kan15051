@@ -1,4 +1,11 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="![58488](https://github.com/kan15051/kan15051/assets/77071537/ed5de6eb-d7d7-4005-ae90-17e270287279)
+">
+ <source media="(prefers-color-scheme: light)" srcset="![1in](https://github.com/kan15051/kan15051/assets/77071537/32abcc12-929c-4eba-94f6-324e315c6ae1)
+">
+ <img alt="Hello my name is Kan" src="![58488](https://github.com/kan15051/kan15051/assets/77071537/be25a05f-5509-4caf-a771-6da2ac3948dc)
+">
+</picture>
 
 <!--
 **kan15051/kan15051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
