@@ -1,10 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset=![58488](https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521)
->
- <source media="(prefers-color-scheme: light)" srcset=![58488](https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521)
->
- <img alt="Hello my name is Kan" src=![58488](https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521)
->
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
+ <img alt="Hello my name is Kan" src="https://github.com/kan15051/kan15051/assets/77071537/4cf1157e-6353-4c15-b012-cb886645a521">
 </picture>
 
 <!--
