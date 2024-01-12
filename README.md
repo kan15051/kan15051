@@ -1,6 +1,7 @@
 ## About me
 
 Hi, my name is Kantaphon Trayok, or you can call me Kan.
+Currently, I am studying Computer Engineering at Chulalongkorn University.
 
 <!--
 **kan15051/kan15051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
